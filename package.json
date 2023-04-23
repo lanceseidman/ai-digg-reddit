@@ -1,0 +1,26 @@
+{
+  "name": "ai-digg-reddit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanceseidman/ai-digg-reddit.git"
+  },
+  "keywords": [
+    "ai",
+    "node",
+    "reddit",
+    "digg",
+    "voting"
+  ],
+  "author": "Lance Seidman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanceseidman/ai-digg-reddit/issues"
+  },
+  "homepage": "https://github.com/lanceseidman/ai-digg-reddit#readme"
+}
